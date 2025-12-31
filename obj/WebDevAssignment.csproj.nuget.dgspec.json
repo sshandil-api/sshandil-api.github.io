@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\WebDevAssignment.csproj": {}
+    "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\sshandil-api.github.io\\sshandil-api.github.io\\WebDevAssignment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\WebDevAssignment.csproj": {
+    "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\sshandil-api.github.io\\sshandil-api.github.io\\WebDevAssignment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\WebDevAssignment.csproj",
+        "projectUniqueName": "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\sshandil-api.github.io\\sshandil-api.github.io\\WebDevAssignment.csproj",
         "projectName": "WebDevAssignment",
-        "projectPath": "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\WebDevAssignment.csproj",
+        "projectPath": "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\sshandil-api.github.io\\sshandil-api.github.io\\WebDevAssignment.csproj",
         "packagesPath": "C:\\Users\\suraj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\obj\\",
+        "outputPath": "C:\\Users\\suraj\\OneDrive\\code\\WebDevAssignment\\sshandil-api.github.io\\sshandil-api.github.io\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\suraj\\AppData\\Roaming\\NuGet\\NuGet.Config"
